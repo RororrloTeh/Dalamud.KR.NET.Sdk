@@ -21,6 +21,7 @@
     <!-- Exclude target framework from the package dependencies as we don't include the build output -->
     <SuppressDependenciesWhenPacking>true</SuppressDependenciesWhenPacking>
     <IncludeBuildOutput>false</IncludeBuildOutput>
+    <RootNamespace>Dalamud.KR.NET.Sdk</RootNamespace>
   </PropertyGroup>
 
   <ItemGroup>

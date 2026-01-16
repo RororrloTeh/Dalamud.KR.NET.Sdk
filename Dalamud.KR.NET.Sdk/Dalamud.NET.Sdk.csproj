@@ -8,10 +8,10 @@
     <Description>MSBuild .NET Sdk for Dalamud plugins.</Description>
     <Authors>XIVLauncher and Dalamud contributors</Authors>
 
-    <PackageId>Dalamud.NET.Sdk</PackageId>
+    <PackageId>Dalamud.KR.NET.Sdk</PackageId>
     <Version>$(PackageVersion_Dalamud_NET_Sdk)</Version>
     <PackageVersion>$(PackageVersion_Dalamud_NET_Sdk)</PackageVersion>
-    <RepositoryUrl>https://github.com/goatcorp/Dalamud.NET.Sdk</RepositoryUrl>
+    <RepositoryUrl>https://github.com/RororrloTeh/Dalamud.KR.NET.Sdk</RepositoryUrl>
     <PackageProjectUrl>$(RepositoryUrl)</PackageProjectUrl>
     <PackageType>MSBuildSdk</PackageType>
     <PackageTags>MSBuildSdk</PackageTags>

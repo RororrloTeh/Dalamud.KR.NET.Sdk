@@ -1,4 +1,4 @@
-# Dalamud.NET.Sdk
+# Dalamud.KR.NET.Sdk
 .NET SDK for use with Dalamud plugins. [See SamplePlugin](https://github.com/goatcorp/SamplePlugin/blob/master/SamplePlugin/SamplePlugin.csproj) for usage.
 
 ## When updating this package
